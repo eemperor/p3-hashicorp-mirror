@@ -1,1 +1,1 @@
-# terraform-providers-mirror
+# p3-hashicorp-mirror
