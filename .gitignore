@@ -1,0 +1,29 @@
+# Project settings
+*.rpm
+.repo/
+repodata/
+packages/
+srpms/
+*.gpg.key
+
+# Editor settings
+.vscode/
+
+packer_cache
+.vagrant
+.spel/*
+!.spel/.gitkeep
+*.zip
+*.exe
+/packer
+__pycache__
+*vendor/
+*.terraform/
+.idea
+.terraform.lock.hcl
+*.log
+yum-chroot.conf
+
+# tardigrade-ci
+.tardigrade-ci
+tardigrade-ci/
